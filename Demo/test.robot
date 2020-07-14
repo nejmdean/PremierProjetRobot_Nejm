@@ -16,6 +16,7 @@ login test
     Close Window
     Log    ceci est un test execute %{username} dans %{os} 
     Log    %{os}        
+    Log    ceci est un test pour github    
     
 
 *** Variables ***
